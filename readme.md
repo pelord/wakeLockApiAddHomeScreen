@@ -6,6 +6,7 @@ When using the new feature Wake Lock API, on Safari, in a browser mode, this app
 To test the Wake Lock API, you have to toggle the ZZZ button. 
 
 Unchecked ZZZ = Wake Lock API released
+
 Checked ZZZ   = Wake Lock API acquired
 
 Now the issue, on Safari, when you do "Add to home screen", the Wake Lock API is not able to be acquired.
