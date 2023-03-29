@@ -35,7 +35,7 @@
     "homeExtButtonZoom" : 6
   },
   "title": "IGO",
-  "welcomeWindow": {
+  "kwelcomeWindow": {
     "showAgainOnNewIGOVersion": true,
     "nbVisitToShow": 2,
     "nbVisitToShowAgain": 30
