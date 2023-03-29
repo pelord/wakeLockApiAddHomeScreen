@@ -1,9 +1,9 @@
 {
   "configVersion": 1,
-  "timestamp": 1680125975008,
+  "timestamp": 1680126413441,
   "appData": {
     "changelog": "Version update",
-    "version": "1.14.2.46"
+    "version": "1.14.2.47"
   },
   "index": "/wakeLockApiAddHomeScreen/index.html",
   "assetGroups": [
@@ -64,7 +64,7 @@
         "/wakeLockApiAddHomeScreen/locale/fr.json",
         "/wakeLockApiAddHomeScreen/locale/libs_locale/en.json",
         "/wakeLockApiAddHomeScreen/locale/libs_locale/fr.json",
-        "/wakeLockApiAddHomeScreen/main.ac5102ff225cebc9.js",
+        "/wakeLockApiAddHomeScreen/main.cb8109db96341b13.js",
         "/wakeLockApiAddHomeScreen/manifest.webmanifest",
         "/wakeLockApiAddHomeScreen/polyfills.25d7d0177d52c397.js",
         "/wakeLockApiAddHomeScreen/runtime.ecadbde478539fa6.js",
@@ -157,14 +157,14 @@
     "/wakeLockApiAddHomeScreen/contexts/variousFormats.json": "59624ba26ebf3b2cf8ec9efff3a079b450c03da4",
     "/wakeLockApiAddHomeScreen/contexts/variousStyles.json": "f4cccca76a72f7e97e99438922e7671d936a6d99",
     "/wakeLockApiAddHomeScreen/contexts/workspace.json": "867d483e082bef1bfda5d03d5c32bd91314bcb51",
-    "/wakeLockApiAddHomeScreen/data/geoDataToIDB.json": "e73cd190e10dbfb38e9a63f5250b7ad91ccab696",
+    "/wakeLockApiAddHomeScreen/data/geoDataToIDB.json": "3ba7b44e97476d926f0995631ef7a79c87d511dc",
     "/wakeLockApiAddHomeScreen/favicon.ico": "1c2dd41874171f145418d08ee122dc4812791e17",
-    "/wakeLockApiAddHomeScreen/index.html": "3264aad80e3ad002ca03bd0bc0a8cea00e032697",
+    "/wakeLockApiAddHomeScreen/index.html": "b6483866e2019f695721df475a4edd9985fa754d",
     "/wakeLockApiAddHomeScreen/locale/en.json": "c1d00676f25e5054a920a9cf10938cf353232d1f",
     "/wakeLockApiAddHomeScreen/locale/fr.json": "efc818e67c889849c5b6fa6ecb7c87528b712067",
     "/wakeLockApiAddHomeScreen/locale/libs_locale/en.json": "2dd2f41303ff9f66d779a119883ecff24107e5c5",
     "/wakeLockApiAddHomeScreen/locale/libs_locale/fr.json": "32156300d41fb3c95e4db52462af3ac6720312bc",
-    "/wakeLockApiAddHomeScreen/main.ac5102ff225cebc9.js": "8c7afc7ec94af95f9dc86a220a2b0a00073ba192",
+    "/wakeLockApiAddHomeScreen/main.cb8109db96341b13.js": "034a3955911e65b14585a147ec4f6753b6318f2e",
     "/wakeLockApiAddHomeScreen/manifest.webmanifest": "fddcc60db0d699ddd8a605dced337139bd51890f",
     "/wakeLockApiAddHomeScreen/polyfills.25d7d0177d52c397.js": "9fcf3e5064bd0c36da561bbdcc49b79e7a1cf014",
     "/wakeLockApiAddHomeScreen/runtime.ecadbde478539fa6.js": "177a59d8e8fa15c0e98f92e8a8e682699a7204f8",
