@@ -1,0 +1,193 @@
+{
+  "configVersion": 1,
+  "timestamp": 1680124289757,
+  "appData": {
+    "changelog": "Version update",
+    "version": "1.14.2.45"
+  },
+  "index": "/beta/index.html",
+  "assetGroups": [
+    {
+      "name": "data",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/beta/data/geoDataToIDB.json"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "contexts",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/beta/contexts/_base.json",
+        "/beta/contexts/_contexts.json",
+        "/beta/contexts/_default.json",
+        "/beta/contexts/geolocation.json",
+        "/beta/contexts/homeExtent.json",
+        "/beta/contexts/layerSync.json",
+        "/beta/contexts/legends.json",
+        "/beta/contexts/mapOverlay.json",
+        "/beta/contexts/messages.json",
+        "/beta/contexts/ogcFilters.json",
+        "/beta/contexts/simple2.json",
+        "/beta/contexts/testExport.json",
+        "/beta/contexts/timeFilter.json",
+        "/beta/contexts/variousFormats.json",
+        "/beta/contexts/variousStyles.json",
+        "/beta/contexts/workspace.json"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/beta/120.b6406ce01a556061.js",
+        "/beta/851.7668669d2a10c846.js",
+        "/beta/config/config.json",
+        "/beta/config/interactiveTour.json",
+        "/beta/favicon.ico",
+        "/beta/index.html",
+        "/beta/locale/en.json",
+        "/beta/locale/fr.json",
+        "/beta/locale/libs_locale/en.json",
+        "/beta/locale/libs_locale/fr.json",
+        "/beta/main.ac5102ff225cebc9.js",
+        "/beta/manifest.webmanifest",
+        "/beta/polyfills.25d7d0177d52c397.js",
+        "/beta/runtime.ecadbde478539fa6.js",
+        "/beta/styles.f11418910ab82aa7.css",
+        "/beta/vendor.b26ce3f4215713b1.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/beta/assets/icons/icon-128x128.png",
+        "/beta/assets/icons/icon-144x144.png",
+        "/beta/assets/icons/icon-152x152.png",
+        "/beta/assets/icons/icon-192x192-full.png",
+        "/beta/assets/icons/icon-192x192.png",
+        "/beta/assets/icons/icon-384x384.png",
+        "/beta/assets/icons/icon-512x512.png",
+        "/beta/assets/icons/icon-72x72.png",
+        "/beta/assets/icons/icon-96x96.png",
+        "/beta/assets/icons/icon.svg",
+        "/beta/assets/igo2/common/images/na.png",
+        "/beta/assets/igo2/core/icons/mdi.svg",
+        "/beta/assets/igo2/core/logo.png",
+        "/beta/assets/igo2/geo/icons/cross_black_18px.svg",
+        "/beta/assets/igo2/geo/icons/place_blue_36px.svg",
+        "/beta/assets/igo2/geo/icons/place_green_36px.svg",
+        "/beta/assets/igo2/geo/icons/place_red_36px.svg",
+        "/beta/assets/igo2/geo/icons/place_yellow_36px.svg",
+        "/beta/assets/images/igo-loading.gif",
+        "/beta/assets/images/loading.gif",
+        "/beta/assets/images/quebecPrint.gif",
+        "/beta/assets/images/signature-PIV.svg",
+        "/beta/assets/images/styles/fire-hydrant.svg",
+        "/beta/assets/list-style.json",
+        "/beta/assets/mapboxStyleExample-vectortile.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/beta/120.b6406ce01a556061.js": "6d5a85ad3ef0825da1c3c4c0c1499be21e89f7e6",
+    "/beta/851.7668669d2a10c846.js": "96a76e7f31ea619701c0458189831d03d8977823",
+    "/beta/assets/icons/icon-128x128.png": "3b80e2989e0a527d8ea266ee2d8659fdd3fd17b8",
+    "/beta/assets/icons/icon-144x144.png": "7ceb23870b6789fe463db0a62492808834870d64",
+    "/beta/assets/icons/icon-152x152.png": "d4aadcbaa5a0c83d24e7b2caae87d0d466377acb",
+    "/beta/assets/icons/icon-192x192-full.png": "49ae797e90c8dc314b9f73c6ba016b54b1fc85d4",
+    "/beta/assets/icons/icon-192x192.png": "49ae797e90c8dc314b9f73c6ba016b54b1fc85d4",
+    "/beta/assets/icons/icon-384x384.png": "e76c3528987e376c183d857e30367cc0abcc4dc2",
+    "/beta/assets/icons/icon-512x512.png": "a45f3de33cfd116639af847ae71e0834911ba960",
+    "/beta/assets/icons/icon-72x72.png": "2c4ec35539e51b8c8a605bf8abc82ade10fd0698",
+    "/beta/assets/icons/icon-96x96.png": "8a677ba0c9faed892743115e42a7c99bf49a8dcf",
+    "/beta/assets/icons/icon.svg": "ff8d0a8cdc1a60a76b3bcbfabda914fb007d2e17",
+    "/beta/assets/igo2/common/images/na.png": "57c6c9fbe29b5e84b754a46d488dc1569fcbbf63",
+    "/beta/assets/igo2/core/icons/mdi.svg": "6255b1d972866a2f80ab624ad5052000acc6229d",
+    "/beta/assets/igo2/core/logo.png": "fa0fd48bb87b9d51544c29bc7f62e4b688e48013",
+    "/beta/assets/igo2/geo/icons/cross_black_18px.svg": "39aba4c08e86db8b14869bb6377e8421d5057d72",
+    "/beta/assets/igo2/geo/icons/place_blue_36px.svg": "3df6b60c61b1b2b8f45b336305a168102e688380",
+    "/beta/assets/igo2/geo/icons/place_green_36px.svg": "0343c0f7e157910c0736d520013134d73f341237",
+    "/beta/assets/igo2/geo/icons/place_red_36px.svg": "545e0ac33d6a5320dae8dfb801f5a63c4d28ed4f",
+    "/beta/assets/igo2/geo/icons/place_yellow_36px.svg": "e41ff8f44b765e11d83fcb0f406e1d75105f0847",
+    "/beta/assets/images/igo-loading.gif": "52dfeeb71917712d693bf6cde72a9f0efbf1d312",
+    "/beta/assets/images/loading.gif": "2d3a0a80465c4932c49b8187723073b41d6f238e",
+    "/beta/assets/images/quebecPrint.gif": "aba52cee2dc1421b37fe1d1681d73f5ca72bb4b8",
+    "/beta/assets/images/signature-PIV.svg": "b13e5f97f3c8ac95ba273107a6b900b91a255ea1",
+    "/beta/assets/images/styles/fire-hydrant.svg": "4d115be799f9991db8db647aab40a9bce52ddd12",
+    "/beta/assets/list-style.json": "c798e270585e0d73707172a397f8cd6b97ee2f93",
+    "/beta/assets/mapboxStyleExample-vectortile.json": "0fcb057fcaffdc4ff64aeb98d269bfdb282c54e8",
+    "/beta/config/config.json": "360a72e02e1e635ae347eebe36106e7080526967",
+    "/beta/config/interactiveTour.json": "b4b36d3dc1d26535ee643663420975bb1b2346be",
+    "/beta/contexts/_base.json": "41ae31ded620339aedc65f2bdebbb271a06e93da",
+    "/beta/contexts/_contexts.json": "256133fefdc91820a58edfbd132bda841e714670",
+    "/beta/contexts/_default.json": "71866209bbf6eea469ffe1899879206f9b20d77c",
+    "/beta/contexts/geolocation.json": "331e501d30e5cab442581e4740104470c1bba6d0",
+    "/beta/contexts/homeExtent.json": "6efdb8e2185e036bc42e9c58cfec3f2cee98a43c",
+    "/beta/contexts/layerSync.json": "afd0d916edc0d2e52e6b80576da5ae2b6d518cf7",
+    "/beta/contexts/legends.json": "5f38f8f35c7918b1c9c65e1dbb5a6d178f9041a5",
+    "/beta/contexts/mapOverlay.json": "a08d64aba18ec9deacf1b18ebf27d57c106a83d5",
+    "/beta/contexts/messages.json": "758913e17d7bec2650f8bc2944022438ae2a01d5",
+    "/beta/contexts/ogcFilters.json": "279098fdaa972d8712bbc76267dd1e59f2619fb6",
+    "/beta/contexts/simple2.json": "473685778fdbd33a0b3d8a672105ec919c6ef23f",
+    "/beta/contexts/testExport.json": "d890f92e8558c7174f7d8b581237ba28f4e06115",
+    "/beta/contexts/timeFilter.json": "41459cf4d78cb28551c9b4577c940967b36f9100",
+    "/beta/contexts/variousFormats.json": "59624ba26ebf3b2cf8ec9efff3a079b450c03da4",
+    "/beta/contexts/variousStyles.json": "f4cccca76a72f7e97e99438922e7671d936a6d99",
+    "/beta/contexts/workspace.json": "867d483e082bef1bfda5d03d5c32bd91314bcb51",
+    "/beta/data/geoDataToIDB.json": "e73cd190e10dbfb38e9a63f5250b7ad91ccab696",
+    "/beta/favicon.ico": "1c2dd41874171f145418d08ee122dc4812791e17",
+    "/beta/index.html": "fe0286b8e9ab04d11d23c29a1b48a51277db5e31",
+    "/beta/locale/en.json": "c1d00676f25e5054a920a9cf10938cf353232d1f",
+    "/beta/locale/fr.json": "efc818e67c889849c5b6fa6ecb7c87528b712067",
+    "/beta/locale/libs_locale/en.json": "2dd2f41303ff9f66d779a119883ecff24107e5c5",
+    "/beta/locale/libs_locale/fr.json": "32156300d41fb3c95e4db52462af3ac6720312bc",
+    "/beta/main.ac5102ff225cebc9.js": "8c7afc7ec94af95f9dc86a220a2b0a00073ba192",
+    "/beta/manifest.webmanifest": "fddcc60db0d699ddd8a605dced337139bd51890f",
+    "/beta/polyfills.25d7d0177d52c397.js": "9fcf3e5064bd0c36da561bbdcc49b79e7a1cf014",
+    "/beta/runtime.ecadbde478539fa6.js": "177a59d8e8fa15c0e98f92e8a8e682699a7204f8",
+    "/beta/styles.f11418910ab82aa7.css": "d7ce3d9b50ea0191369a30b4ba7761f81e674897",
+    "/beta/vendor.b26ce3f4215713b1.js": "7b941b0d88ba8b622b7dbda27692a10876b3d967"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
